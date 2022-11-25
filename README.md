@@ -26,19 +26,20 @@ For me, the most amazing thing about information technology is the possibility o
 
 <img align="center" alt="Elina-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 
+<img align="center" alt="Elina-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
 <img align="center" alt="Elina-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-<img align="center" alt="Elina-Markdown" height="30" width="80" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img align="center" alt="Elina-Markdown" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png">
 
 </a>
   </div>
 
-## Frameworks
+## Frameworks and libraries
 
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
 <a href="https://github.com/31ina-Batist4" style="margin:10px; display:flex">
-  <img align="center" alt="Eliabe-Angular" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
+  <img align="center" alt="Elina-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 <img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+<img align="center" alt="Elina-React-native" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 
 <img align="center" alt="Elina-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </a>
