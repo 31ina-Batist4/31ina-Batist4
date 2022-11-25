@@ -40,6 +40,8 @@ For me, the most amazing thing about information technology is the possibility o
   <img align="center" alt="Elina-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 <img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 <img align="center" alt="Elina-React-native" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+<img align="center" alt="Elina-React-native" height="30" width="40" src="https://repository-images.githubusercontent.com/220078160/9353b600-0e54-11ea-9712-b79b66b93c00">
+
 
 <img align="center" alt="Elina-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </a>
