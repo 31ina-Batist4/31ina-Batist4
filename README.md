@@ -74,8 +74,8 @@ For me, the most amazing thing about information technology is the possibility o
 
 <div>
 <br>
-  <a href = "mailto:elinabatista_@hotmail.com"><img src="https://img.shields.io/badge/-HotMail-%4EA94B?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elina-batista-339b14b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elinabatista_@hotmail.com"><img align="center" alt="Elina-hot" height="30" width="40"  src="https://www.tijucas.sc.leg.br/imagens/email2icon.png/image" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elina-batista-339b14b7/" target="_blank"><img align="center" alt="Elina-lk" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"></a>
 
   ![Snake animation](https://github.com/31ina-Batist4/31ina-Batist4/blob/main/output/snake.svg)
 
