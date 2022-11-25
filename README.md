@@ -17,18 +17,17 @@ For me, the most amazing thing about information technology is the possibility o
   <img align="center" alt="Elina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Elina-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
+  
   <img align="center" alt="Elina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="Elina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Elina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+  <img align="center" alt="Elina-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
-  <img align="center" alt="Elina-Java" height="30" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="Elina-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 
+<img align="center" alt="Elina-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 <img align="center" alt="Elina-Markdown" height="30" width="80" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
-<img align="center" alt="Elina-Markdown" height="30" width="80" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-
-<img align="center" alt="Elina-Markdown" height="30" width="80" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 </a>
   </div>
@@ -39,10 +38,9 @@ For me, the most amazing thing about information technology is the possibility o
 <a href="https://github.com/31ina-Batist4" style="margin:10px; display:flex">
   <img align="center" alt="Eliabe-Angular" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
-<img align="center" alt="Elina-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 
-<img align="center" alt="Elina-Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+<img align="center" alt="Elina-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </a>
   </div>
 
@@ -50,11 +48,21 @@ For me, the most amazing thing about information technology is the possibility o
 
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
 <a href="https://github.com/31ina-Batist4" style="margin:10px; display:flex">
-  <img align="center" alt="Elina-My-sql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Elina-My-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 
-<img align="center" alt="Elina-Mongo-db" height="30" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="Elina-Mongo-db" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 
-<img align="center" alt="Elina-Sqlite" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img align="center" alt="Elina-Sqlite" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-plain.svg">
+
+</a>
+  </div>
+  
+  ## Other technologies
+
+<div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
+ <a href="https://github.com/31ina-Batist4" style="margin:10px; display:flex">
+<img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 
 </a>
   </div>
