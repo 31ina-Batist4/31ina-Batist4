@@ -98,7 +98,7 @@ For me, the most amazing thing about information technology is the possibility o
 
 ## ![Capgemin](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/67632.jpg) 
 
-Cargo: Custom Solutions Analyst l I
+Cargo: Custom Solutions Analyst I
 
 </div>
 
