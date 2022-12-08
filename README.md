@@ -41,7 +41,7 @@ For me, the most amazing thing about information technology is the possibility o
 <img align="center" alt="Elina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 <img align="center" alt="Elina-React-native" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 <img align="center" alt="Elina-React-native" height="30" width="40" src="https://repository-images.githubusercontent.com/220078160/9353b600-0e54-11ea-9712-b79b66b93c00">
-<img align="center" alt="Elina-Materialize" height="30" width="40" src="https://pbs.twimg.com/profile_images/532662364613525504/GN559Lfb_400x400.png">
+<img align="center" alt="Elina-Materialize" height="30" width="40" src="https://cdn.imgbin.com/10/22/2/imgbin-logo-brand-product-design-font-combination-tXHWgQzu638nYpJwisnVWtHR7.jpg">
 
 <img align="center" alt="Elina-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </a>
