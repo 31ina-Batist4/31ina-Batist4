@@ -1,4 +1,4 @@
-# Hi! My name is Elina and I am a Solutions Analyst.
+# Hi! My name is Elina and I'm a Software developer.
 
 For me, the most amazing thing about information technology is the possibility of bringing quality of life to people, and I want to be part of that because I love contributing to problem solving.
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
