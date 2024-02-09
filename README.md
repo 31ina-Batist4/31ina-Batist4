@@ -101,7 +101,7 @@ Amo aprender e desafios, tenho muita satisfação em contribuir para soluções,
 
 ## ![Capgemin](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/67632.jpg) 
 
-Cargo: Custom Solutions Analyst I
+Cargo: Desenvolvedora de software
 
 </div>
 
