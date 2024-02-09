@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF1493&width=435&lines=Hello!+Meu+nome+é+Elina+Batista+e+sou+dev;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF1493&width=435&lines=Hello!+Meu+nome+é+Elina+Batista+e+sou+dev;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
   <div style="order: 1; margin: 0 0 0 0; text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=50&pause=2000&color=FFC0CB&center=true&multiline=true&repeat=false&width=800&height=200&lines=+;%22Falar+é+fácil,+me+mostre+o+código.%22;%E2%80%93+Linus+Torvalds." 
   alt='"Falar é fácil, me mostre o código." – Linus Torvalds.' />
