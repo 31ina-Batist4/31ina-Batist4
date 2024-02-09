@@ -1,4 +1,4 @@
-# Hi! My name is Elina and I'm a Software developer.
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF1493&width=435&lines=Hello!+Meu+nome+é+Elina+Batista+e+sou+dev;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
 
 For me, the most amazing thing about information technology is the possibility of bringing quality of life to people, and I want to be part of that because I love contributing to problem solving.
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
