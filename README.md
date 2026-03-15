@@ -96,13 +96,8 @@ Amo aprender e desafios, tenho muita satisfação em contribuir para soluções,
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/LOGO_PROJE%C3%87%C3%83O.png" alt="Projeção" style="width:200px;"/>
 </div>
 
-# Professional Expiriences
 
-<div align="center" style="display: grid; grid-template-rows: auto auto auto; grid-template-columns: auto">
-
-## ![Capgemin](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/67632.jpg) 
-
-Cargo: Desenvolvedora de software
+Cargo: Analista de Sistemas
 
 </div>
 
