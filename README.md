@@ -5,8 +5,8 @@
 </br>
 <div align="center" style="display: grid; grid-template-rows: auto auto auto; ">
   <a href="https://github.com/31ina-Batist4">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=31ina-Batist4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31ina-Batist4&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=31ina-Batist4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=31ina-Batist4&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
 
