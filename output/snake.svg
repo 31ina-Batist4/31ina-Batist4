@@ -2,68 +2,87 @@
      width="880"
      height="192"
      xmlns="http://www.w3.org/2000/svg">
-  <desc>Custom github-snake with language palette</desc>
+
+  <desc>github-snake custom language palette</desc>
 
   <style>
+    /* ===== CORES (PALETA DA IMAGEM) ===== */
     :root {
-      --cb: #1f2330;
-      --ce: #2b3040;
+      --cb:#1f2330;      /* borda */
+      --ce:#2b3040;      /* grid vazio */
 
-      /* Paleta personalizada */
-      --c1: #c0841a; /* Java */
-      --c2: #b085ff; /* Kotlin */
-      --c3: #4fa3ff; /* TypeScript */
-      --c4: #f05a28; /* HTML / Swift */
-      --cs: #ff5c8a; /* Snake head */
+      --java:#c0841a;
+      --kotlin:#b085ff;
+      --ts:#4fa3ff;
+      --js:#f2e85c;
+      --html:#f05a28;
+
+      --snake:#ff5c8a;   /* cabeça */
     }
 
     @media (prefers-color-scheme: dark) {
       :root {
-        --cb: #1f2330;
-        --ce: #161b22;
-        --c1: #c0841a;
-        --c2: #b085ff;
-        --c3: #4fa3ff;
-        --c4: #f05a28;
+        --ce:#161b22;
       }
     }
 
-    /* Quadrados do grid */
-    .c {
-      shape-rendering: geometricPrecision;
-      fill: var(--ce);
-      stroke: var(--cb);
-      stroke-width: 1;
-      rx: 3;
-      ry: 3;
-      animation: none 46100ms linear infinite;
+    /* ===== GRID ===== */
+    .c{
+      shape-rendering:geometricPrecision;
+      fill:var(--ce);
+      stroke:var(--cb);
+      stroke-width:1px;
+      rx:3;
+      ry:3;
+      animation:none 46100ms linear infinite
     }
 
-    /* Snake */
-    .s {
-      fill: var(--cs);
-      animation: none linear 46100ms infinite;
+    /* ===== SNAKE (MUDA DE COR) ===== */
+    .s{
+      shape-rendering:geometricPrecision;
+      animation:none linear 46100ms infinite
     }
 
-    /* Progress bar (comida) */
-    .u {
-      animation: none linear 46100ms infinite;
-      transform-origin: 0 0;
+    .lang-java   { fill:var(--java) }
+    .lang-kotlin { fill:var(--kotlin) }
+    .lang-ts     { fill:var(--ts) }
+    .lang-js     { fill:var(--js) }
+    .lang-html   { fill:var(--html) }
+
+    /* ===== PROGRESS / COMIDA ===== */
+    .u{
+      animation:none linear 46100ms infinite;
+      transform-origin:0 0
     }
+
+    .u.java   { fill:var(--java) }
+    .u.kotlin{ fill:var(--kotlin) }
+    .u.ts     { fill:var(--ts) }
+    .u.js     { fill:var(--js) }
+    .u.html   { fill:var(--html) }
+
+    /* ===== ANIMAÇÕES ORIGINAIS ===== */
+{{ANIMACOES_ORIGINAIS_SNKE}}
   </style>
 
-  <!-- 🔽
-    IMPORTANTE:
-    A partir daqui você pode colar
-    EXATAMENTE o miolo <rect ...>
-    do SVG que você já mandou
-    (sem alterar os keyframes)
-  🔽 -->
+  <!-- ===== GRID (mantido do snk) ===== -->
+  <!-- (todo o bloco <rect class="c ..."> do Platane/snk vai aqui sem alterações) -->
 
-  <!-- EXEMPLO curto (snake head) -->
-  <rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="6"/>
-  <rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="5"/>
-  <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="4"/>
-  <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="4"/>
+  <!-- ===== PROGRESS BAR (comida colorida) ===== -->
+  <rect class="u java  u0"   height="12" width="682.5" x="0.0"   y="144"/>
+  <rect class="u kotlin u1"  height="12" width="96.8"  x="681.9" y="144"/>
+  <rect class="u ts     u2"  height="12" width="44.3"  x="778.1" y="144"/>
+  <rect class="u html   u3"  height="12" width="26.8"  x="821.8" y="144"/>
+
+  <!-- ===== SNAKE (MUDA DE COR AO ANDAR) ===== -->
+  <!-- Java -->
+  <rect class="s s0 lang-java"   x="0.8" y="0.8" width="14.4" height="14.4" rx="6"/>
+  <rect class="s s1 lang-java"   x="1.8" y="1.8" width="12.3" height="12.3" rx="5"/>
+
+  <!-- Kotlin -->
+  <rect class="s s2 lang-kotlin" x="2.6" y="2.6" width="10.8" height="10.8" rx="4"/>
+
+  <!-- TypeScript -->
+  <rect class="s s3 lang-ts"     x="3.0" y="3.0" width="9.9"  height="9.9"  rx="4"/>
 
 </svg>
